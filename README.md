@@ -1,6 +1,6 @@
 Hi there 👋
 
-<!--
+
 **Jossylamine/jossylamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/Kjb36756114?t=QGkjatoyzDwc88-x9YD6Ng&s=08
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I love trying something new.
--->
